@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1a80af4-b163-46f5-8555-6bd69f1a5c0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRootWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SquareRootWhile">
     <configuration name="Countdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Countdown" />
       <module name="TestProjectForGit" />
@@ -49,8 +49,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareRootWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareRootWhile" />
+      <module name="TestProjectForGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareRootWhile" />
         <item itemvalue="Application.Countdown" />
       </list>
     </recent_temporary>
