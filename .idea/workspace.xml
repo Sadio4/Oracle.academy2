@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1a80af4-b163-46f5-8555-6bd69f1a5c0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SquareRootWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidatePin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +42,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SquareRootWhile">
+  <component name="RunManager" selected="Application.TrafficLight">
     <configuration name="Countdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Countdown" />
+      <module name="TestProjectForGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TestProjectForGit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,10 +64,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrafficLight" />
+      <module name="TestProjectForGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatePin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidatePin" />
+      <module name="TestProjectForGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SquareRootWhile" />
+        <item itemvalue="Application.TrafficLight" />
         <item itemvalue="Application.Countdown" />
+        <item itemvalue="Application.ValidatePin" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SquareRootWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -84,5 +109,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestProjectForGit$ValidatePin.ic" NAME="ValidatePin Coverage Results" MODIFIED="1661443702068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
